@@ -1,6 +1,6 @@
 {
-  "name": "ghost-azure-storage",
-  "version": "2.1.0",
+  "name": "ghost-teddy-azure-storage",
+  "version": "2.4.0",
   "description": "Store content from ghost in azure file storage",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tparnell8/ghost-azurestorage"
+    "url": "https://github.com/teddy-swap/ghost-azurestorage"
   },
   "keywords": [
     "ghost",
@@ -18,10 +18,10 @@
     "plugin",
     "blog"
   ],
-  "author": "Tommy James Parnell, Holger Vetter",
+  "author": "Tommy James Parnell, Holger Vetter, Clark Alesna",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tparnell8/ghost-azurestorage/issues"
+    "url": "https://github.com/teddy-swap/ghost-azurestorage/issues"
   },
   "homepage": "",
   "dependencies": {
